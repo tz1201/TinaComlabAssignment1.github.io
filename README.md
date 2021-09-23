@@ -8,16 +8,16 @@ This is a short film codirected by Tianyu Zhang, Maya Lee and Yasmin Alshurafa i
 
 ## Project Description :
 
-This is a premier website for the short film I made in class with my teammates. The film is a story of connection. Following the overall concept of the film, I used string images in the website to evoke the viewers' curiosity and imagination. The strings in the website are 'connection' between different web pages, guiding and stimulating users to explore the website.
+The film is a story of “connection”. We made a story about social media and electronic devices can connect people all together, however, once we lose the physical connection, we will also lose the connection with others. During the high-speed developing society now, we depend too much on the technology. But we are forgetting that to build connection with people, the most significant thing is to show the sincereness and kindness to others.
 
 ## Process :
 
-First, I created a wireframe for my website using Adobe Xd, applying the theme of connection and the string to the overall design.
-Then, I started by creating base layout of each page, mainly using css flexbox property.
-I also drew string images by html svg tags and added animation using javascript.
+Following the concept of "internet and digital devices connect us together", I designed the intro page to be a interactive page which needs user to plug in the socket in order to enter the main page.
+And as for the main page, instead of doing separate pages as I designed in the Adobe Xd wireframe before, I choose to put all stuff on the same page, and use header navigation and id of each section to navigate. In this way, I can make the whole page more like a entirety.
+
+## Problems:
+The part that I think the most challenging is positioning each section, since I'm still not familiar with the css decoration codes. But through googling and coding the page myself, gradually I'll get more familiar with them.
 
 ## Reflection/Evaluation :
 
-I am pretty satisfied with the overall design concept and responsiveness of the website.
-Creating natural svg animation in javascript was the hardest part since it was my first time using javascript.
-For future improvement, I can work more on string animations to make it more dynamic and interesting.
+I really like the intro page which has a cut interactive animation, but as for the main page, I tried different color matching, however, the effect is not very good. So I still choose to keep it as black and white only. If I could have more time, I would spend more time designing the decoration of the main page. 
