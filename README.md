@@ -17,6 +17,7 @@ And as for the main page, instead of doing separate pages as I designed in the A
 
 ## Problems:
 The part that I think the most challenging is positioning each section, since I'm still not familiar with the css decoration codes. But through googling and coding the page myself, gradually I'll get more familiar with them.
+Also, the Javascript is confusing, I learned how to position sections in the css files, but when I want to add more interaction in the js file, I need to use a different way to write the code, which confuses me.
 
 ## Reflection/Evaluation :
 
